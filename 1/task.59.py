@@ -1,7 +1,6 @@
-t = int(input())
+a1 = input("")
 
-hours = t // 60
-minutes = t % 60
+b1 = sum(map(int, a1))
 
-print(hours)
-print(minutes)
+print(b1)
+
