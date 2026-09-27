@@ -12,6 +12,37 @@ while hours > 23:
     hours -= 24
 
 print(f"{hours:02d}:{minutes:02d}:{seconds:02d}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # print(f"hours {hours:02d}")
 # print(f"min {minutes:02d}")
 # print(f"sec {seconds:02d}")
