@@ -11,5 +11,5 @@ while True:
             a += f"{number} "
             
         print(a)
-    except ValueError:
+    except number < 0:
         print("Try again")
